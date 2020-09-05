@@ -527,7 +527,6 @@
 | [mo.js](https://mojs.github.io/)| The motion graphics toolbelt for the web |
 | [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)| A small JS library to overlay images on top of the current page. |
 | [Slick](https://kenwheeler.github.io/slick/)|  Fully responsive carousel |
-| [AOS](https://michalsnik.github.io/aos/)|  Animation On Scroll |
 
 
 <div align="right">
